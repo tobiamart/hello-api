@@ -1,0 +1,2 @@
+Dokeryzacja zapewnia jednakowe środowisko do uruchamiania (mozna tez zmienic port wyjscia dla kontenera, tak zeby flask na przykład podawał na 5000, a kontener na 8080, na przykład)
+Github action pozwala na pełną automatyzajcę testów
